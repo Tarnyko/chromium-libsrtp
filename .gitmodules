@@ -1,0 +1,4 @@
+[submodule "third_party/libsrtp"]
+	path = third_party/libsrtp
+	url = https://chromium.googlesource.com/chromium/deps/libsrtp.git
+	branch = 9cc4f2f799887e5d64bd28c159ea34b413f6be31
